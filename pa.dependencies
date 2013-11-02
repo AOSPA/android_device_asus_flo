@@ -1,0 +1,9 @@
+[
+    {
+        "remote":       "github",
+        "account":      "TheMuppets",
+        "repository":   "proprietary_vendor_asus",
+        "target_path":  "vendor/asus",
+        "revision":     "cm-10.2"
+    }
+]
