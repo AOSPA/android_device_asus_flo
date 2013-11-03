@@ -5,12 +5,12 @@
         "repository":   "proprietary_vendor_asus",
         "target_path":  "vendor/asus",
         "revision":     "cm-10.2"
-    }
+    },
     {
-        "remote":       "aosp"
-        "account":      "device"
-        "repository":   "asus/flo-kernel"
-        "target_path":  "device/asus/flo-kernel"
+        "remote":       "aosp",
+        "account":      "device",
+        "repository":   "asus/flo-kernel",
+        "target_path":  "device/asus/flo-kernel",
         "revision":     "refs/tags/android-4.4_r1"
     }
 ]
