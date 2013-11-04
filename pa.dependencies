@@ -70,13 +70,6 @@
         "revision":     "refs/tags/android-4.4_r1"
     },
     {
-        "remote":       "cm",
-        "account":      "CyanogenMod",
-        "repository":   "android_packages_apps_Torch",
-        "target_path":  "packages/apps/Torch",
-        "revision":     "cm-10.2"
-    },
-    {
         "remote":       "github",
         "account":      "TheMuppets",
         "repository":   "proprietary_vendor_asus",
