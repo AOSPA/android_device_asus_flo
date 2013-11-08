@@ -1,10 +1,10 @@
 [
     {
-        "remote":       "aosp",
-        "account":      "platform",
-        "repository":   "hardware/qcom/power",
+        "remote":       "github",
+        "account":      "AOSPA",
+        "repository":   "android_hardware_qcom_power",
         "target_path":  "hardware/qcom/power",
-        "revision":     "refs/tags/android-4.4_r1"
+        "revision":     "kitkat"
     },
     {
         "remote":       "github",
