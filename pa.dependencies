@@ -73,7 +73,7 @@
         "remote":       "github",
         "account":      "ThankYouMario",
         "repository":   "proprietary_vendor_asus_flo",
-        "target_path":  "vendor/asus",
+        "target_path":  "vendor/asus/flo",
         "revision":     "master"
     }
 
