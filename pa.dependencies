@@ -72,9 +72,9 @@
     {
         "remote":       "github",
         "account":      "ThankYouMario",
-        "repository":   "proprietary_vendor_asus",
+        "repository":   "proprietary_vendor_asus_flo",
         "target_path":  "vendor/asus",
-        "revision":     "kitkat"
+        "revision":     "master"
     }
 
 ]
