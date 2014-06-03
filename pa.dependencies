@@ -15,49 +15,49 @@
         "remote":       "aosp",
         "repository":   "platform/hardware/qcom/media",
         "target_path":  "hardware/qcom/media",
-        "revision":     "kitkat-mr1-release"
+        "revision":     "android-4.4.3_r1.1"
     },
     {
         "remote":       "aosp",
         "repository":   "platform/hardware/qcom/wlan",
         "target_path":  "hardware/qcom/wlan",
-        "revision":     "kitkat-mr1-release"
+        "revision":     "android-4.4.3_r1.1"
     },
     {
         "remote":       "aosp",
         "repository":   "platform/hardware/qcom/audio",
         "target_path":  "hardware/qcom/audio",
-        "revision":     "kitkat-mr1-release"
+        "revision":     "android-4.4.3_r1.1"
     },
     {
         "remote":       "aosp",
         "repository":   "platform/hardware/qcom/bt",
         "target_path":  "hardware/qcom/bt",
-        "revision":     "kitkat-mr1-release"
+        "revision":     "android-4.4.3_r1.1"
     },
     {
         "remote":       "aosp",
         "repository":   "platform/hardware/qcom/msm8960",
         "target_path":  "hardware/qcom/msm8960",
-        "revision":     "kitkat-mr1-release"
+        "revision":     "android-4.4.3_r1.1"
     },
     {
         "remote":       "aosp",
         "repository":   "platform/hardware/qcom/keymaster",
         "target_path":  "hardware/qcom/keymaster",
-        "revision":     "kitkat-mr1-release"
+        "revision":     "android-4.4.3_r1.1"
     },
     {
         "remote":       "aosp",
         "repository":   "platform/hardware/qcom/sensors",
         "target_path":  "hardware/qcom/sensors",
-        "revision":     "kitkat-mr1-release"
+        "revision":     "android-4.4.3_r1.1"
     },
     {
         "remote":       "aosp",
         "repository":   "device/asus/flo-kernel",
         "target_path":  "device/asus/flo-kernel",
-        "revision":     "kitkat-mr1-release"
+        "revision":     "android-4.4.3_r1.1"
     },
     {
         "remote":       "blobs",
