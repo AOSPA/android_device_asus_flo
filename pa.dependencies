@@ -63,7 +63,7 @@
         "remote":       "blobs",
         "repository":   "proprietary_vendor_asus_flo",
         "target_path":  "vendor/asus/flo",
-        "revision":     "lollipop"
+        "revision":     "lollipop-mr1"
     }
 
 ]
