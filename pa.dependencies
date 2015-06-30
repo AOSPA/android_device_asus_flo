@@ -57,7 +57,7 @@
         "remote":       "aosp",
         "repository":   "device/asus/flo-kernel",
         "target_path":  "device/asus/flo-kernel",
-        "revision":     "refs/tags/android-5.1.1_r5"
+        "revision":     "refs/tags/android-5.1.1_r6"
     },
     {
         "remote":       "blobs",
