@@ -58,5 +58,11 @@
         "repository":   "device/asus/flo-kernel",
         "target_path":  "device/asus/flo-kernel",
         "revision":     "refs/tags/android-6.0.0_r1"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "proprietary_vendor_asus_flo",
+        "target_path":  "vendor/asus/flo",
+        "revision":     "marshmallow"
     }
 ]
