@@ -225,4 +225,7 @@
          The default is false. -->
     <bool name="config_lidControlsSleep">true</bool>
 
+    <!-- Enable doze -->
+    <bool name="config_enableAutoPowerModes">true</bool>
+
 </resources>
