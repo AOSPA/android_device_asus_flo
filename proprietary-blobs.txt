@@ -204,3 +204,13 @@
 /system/vendor/lib/libmmstillomx.so
 /system/vendor/lib/liboemcamera.so
 /system/vendor/lib/libqomx_jpegenc.so
+/system/vendor/lib/libwvm.so
+/system/vendor/lib/libwvdrm_L1.so
+/system/vendor/lib/libfrsdk.so
+/system/vendor/lib/libbt-vendor.so
+/system/vendor/lib/drm/libdrmvmplugin.so
+/system/vendor/lib/mediadrm/libdrmclearkeyplugin.so
+/system/vendor/lib/mediadrm/libwvdrmengine.so
+/system/lib/drm/libfwdlockengine.so
+/system/framework/com.google.widevine.software.drm.jar
+/system/framework/com.google.android.media.effects.jar
