@@ -208,7 +208,7 @@
 /system/vendor/lib/libwvdrm_L1.so
 /system/vendor/lib/libfrsdk.so
 /system/vendor/lib/libbt-vendor.so
-/system/vendor/lib/drm/libdrmvmplugin.so
+/system/vendor/lib/drm/libdrmwvmplugin.so
 /system/vendor/lib/mediadrm/libdrmclearkeyplugin.so
 /system/vendor/lib/mediadrm/libwvdrmengine.so
 /system/lib/drm/libfwdlockengine.so
