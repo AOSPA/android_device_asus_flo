@@ -11,7 +11,7 @@ init_daemon_domain(mpdecision)
 
 # CPU hotplug uevent to manage cores
 allow mpdecision self:netlink_kobject_uevent_socket { create setopt bind read };
-allow mpdecision self:capability net_admin;
+allow mpdecision self:capability { net_admin };
 
 # Create under /dev/socket/mpdecision
 allow mpdecision mpdecision_socket:dir w_dir_perms;

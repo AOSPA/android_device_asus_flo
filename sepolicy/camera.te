@@ -27,3 +27,13 @@ allow camera sensors_socket:sock_file read;
 # Read camera files from persist filesystem
 allow camera persist_file:dir search;
 r_dir_file(camera, persist_camera_file)
+
+# Additional policies to address denials in N
+allow camera cameraserver:fd use;
+allow cameraserver camera_device:chr_file rw_file_perms;
+allow cameraserver camera_socket:sock_file rw_file_perms;
+allow cameraserver camera:unix_dgram_socket sendto;
+allow cameraserver mpdecision_socket:sock_file rw_file_perms;
+allow cameraserver mpdecision:unix_dgram_socket { read sendto };
+allow cameraserver sysfs:file read;
+allow cameraserver system_file:file execmod;

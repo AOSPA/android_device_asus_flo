@@ -16,3 +16,7 @@ type modem_block_device, dev_type;
 type shared_log_device, dev_type;
 
 type power_control_device, dev_type;
+
+# Used in N policies
+type media_device, dev_type;
+type v41_subdev_device, dev_type;
