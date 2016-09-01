@@ -121,3 +121,6 @@ USE_MINIKIN := true
 
 # Include an expanded selection of fonts
 EXTENDED_FONT_FOOTPRINT := true
+
+# Allow text relocations
+TARGET_ALLOW_TEXT_RELOCATIONS := true
