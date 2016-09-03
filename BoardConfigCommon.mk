@@ -124,3 +124,6 @@ EXTENDED_FONT_FOOTPRINT := true
 
 # Allow text relocations
 TARGET_ALLOW_TEXT_RELOCATIONS := true
+
+# Disable clang for bionic
+TARGET_BIONIC_DISABLE_CLANG := true
